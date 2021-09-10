@@ -325,7 +325,7 @@
 ![Charts](images/002.png?raw=true)
 
 - [ ] Move Chart
-- [ ] Switch Row/Column
+- [x] Switch Row/Column
 - [ ] Quick Layout
 - [ ] Change Chart Type
 
